@@ -1,0 +1,5 @@
+	Num	Name	Gun	Cost	Calibr
+	1	Alex	Colt	220$	2.22
+	2	Vova	AK	230$	6.69
+	3	Fenix	M4	400$	7.99
+	5	And	AK	500	7.62

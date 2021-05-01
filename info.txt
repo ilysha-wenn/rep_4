@@ -1,0 +1,5 @@
+	Num	Cost	Gun	Calibr
+	1	200	AK	7.79
+	2	300	M4	5.59
+	3	500	Slon	20.00
+	4	600	Negev	25.00
